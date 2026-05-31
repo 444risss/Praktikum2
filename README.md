@@ -1,6 +1,8 @@
-# aktiv1
+# Praktikum2
 
-A new Flutter project.
+1462300209 Kharisma Arjuna Dwi Putra
+
+A Flutter project.
 
 ## Getting Started
 
